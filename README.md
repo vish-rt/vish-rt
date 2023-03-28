@@ -1,4 +1,4 @@
-<img src="/assets/meirl.gif">
+<p style="text-align:center;"><img src="/assets/meirl.gif"></p>
 
 ### Hi there 👋
 
