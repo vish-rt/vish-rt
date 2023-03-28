@@ -1,3 +1,5 @@
+<img src="/assets/meirl.gif">
+
 ### Hi there 👋
 
 <!--
