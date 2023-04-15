@@ -1,5 +1,3 @@
-<img src="/assets/meirl.gif">
-
 ### Hi there 👋
 
 My name is Vishal Rawat
