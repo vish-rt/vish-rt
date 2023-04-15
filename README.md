@@ -1,3 +1,4 @@
+![Me irl](assets/meirl.gif)
 ### Hi there 👋
 
 My name is Vishal Rawat
