@@ -22,6 +22,7 @@ I love to build in public and engage with like-minded individuals across various
 ## Frameworks
 <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="40px"> <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="60px"> <img src="https://blog.kakaocdn.net/dn/wN95A/btq7iPTi6Qc/sXRPWwlLt0paCRbBaQiE90/img.png" width="40px"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="40px"> <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" width="60px"> <img src="https://static-00.iconduck.com/assets.00/flutter-plain-icon-1655x2048-tm6fsmjb.png" width="30px"> 
 
+## Statistics
 <img src="https://komarev.com/ghpvc/?username=vish-rt&label=Profile%20views&color=0e75b6&style=flat" alt="vish-rt" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=vish-rt&show_icons=true&locale=en" alt="vish-rt" />
