@@ -1,6 +1,6 @@
 # Hi there 👋 <img align='right' src='assets/meirl.gif' width='400'>
 
-My name is Vishal Rawat
+My name is Vishal Rawat!
 
 ## About me:
 
